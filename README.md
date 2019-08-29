@@ -1,0 +1,1 @@
+A simply Python PySide2 app that prints `Hello, {name}` with some formatting and draws random points.
