@@ -5,7 +5,7 @@ from PySide2.QtCore import Slot, Qt, QPoint
 from PySide2.QtGui import QPainter, QPen, QBrush
 from PySide2.QtWidgets import QApplication, QDialog
 
-from pyapp.ui_window import Ui_MyAppWindow
+from pyside2app.ui_window import Ui_MyAppWindow
 
 
 class MyAppWindow(QDialog):

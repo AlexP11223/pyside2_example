@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pyapp"
+name = "pyside2app"
 version = "0.1.0"
 description = ""
 authors = ["Alex P <alex.pantec@gmail.com>"]
